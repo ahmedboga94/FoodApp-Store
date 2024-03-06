@@ -1,6 +1,6 @@
-# foodappusers
+# FootApp Store
 
-A new Flutter project.
+The Project based on Firebase and no statement methods is used
 
 ## Getting Started
 
