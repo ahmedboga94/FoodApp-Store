@@ -1,6 +1,7 @@
 # FootApp Store
 
-The Project based on Firebase and no State Management methods is used
+- The Project based on Firebase and no State Management methods is used
+- This app for users to explore products(Foods) and add into cart and order
 
 ## Getting Started
 
