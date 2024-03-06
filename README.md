@@ -1,6 +1,6 @@
 # FootApp Store
 
-The Project based on Firebase and no statement methods is used
+The Project based on Firebase and no State Management methods is used
 
 ## Getting Started
 
